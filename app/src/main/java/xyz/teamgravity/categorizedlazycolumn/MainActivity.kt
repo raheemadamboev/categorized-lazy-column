@@ -13,6 +13,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import xyz.teamgravity.categorizedlazycolumn.ui.theme.CategorizedLazyColumnTheme
 
 class MainActivity : ComponentActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
